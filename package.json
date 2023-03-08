@@ -7,9 +7,12 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "",
+  "author": "tst",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6"
   }
 }
